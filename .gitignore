@@ -11,3 +11,4 @@ tf_logs/*
 images/**/*.png
 images/**/*.dot
 my_*
+*:Zone.Identifier
